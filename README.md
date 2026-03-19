@@ -1,8 +1,3 @@
-Sure — here’s a **professional, clear, and detailed README** for your **Sports Performance Analysis** project. You can copy this directly into your repository’s `README.md`.
-
----
-
-````markdown
 # 🏃‍♂️ Sports Performance Analysis
 
 A comprehensive **data-driven dashboard** that visualizes and analyzes athletic performance metrics using real-world sports data. This project helps coaches, athletes, and analysts gain actionable insights into player performance, trends, and areas for improvement.
