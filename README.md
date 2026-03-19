@@ -4,21 +4,6 @@ A comprehensive **data-driven dashboard** that visualizes and analyzes athletic 
 
 ---
 
-## 📌 Table of Contents
-
-1. [About the Project](#about-the-project)  
-2. [Key Features](#key-features)  
-3. [Tech Stack](#tech-stack)  
-4. [Dataset](#dataset)  
-5. [Project Structure](#project-structure)  
-6. [Installation](#installation)  
-7. [Usage](#usage)  
-8. [Screenshots](#screenshots)  
-9. [Future Enhancements](#future-enhancements)  
-10. [Contributing](#contributing)  
-11. [License](#license)
-
----
 
 ## 🧠 About the Project
 
@@ -197,15 +182,4 @@ Created by **Adarsh Thakur**
 📧 Email: [thakuradarsh8368@gmail.com](mailto:thakuradarsh8368@gmail.com)
 🔗 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
 
-```
-
----
-
-If you want, I can also:
-
-✅ Generate badges (build, coverage, license)  
-✅ Write deployment instructions (Heroku / AWS / Streamlit Share)  
-✅ Create a CONTRIBUTING.md and LICENSE file
-
-Just tell me!
 ```
